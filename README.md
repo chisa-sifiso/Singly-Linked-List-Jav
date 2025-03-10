@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>README - Singly Linked List</title>
-</head>
+
 <body>
     <h1>Singly-Linked-List-Java</h1>
     <p>A Java implementation of a Singly Linked List supporting insertion and deletion at both the beginning and the end.</p>
