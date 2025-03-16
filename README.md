@@ -26,7 +26,7 @@
   <h2>⚡ Usage</h2>
     <p>Clone the repository and run the Java program:</p>
     <pre>
-    git clone https://github.com/chisa-sifisoSingly-Linked-List-Java.git
+    git clone https://github.com/chisa-sifiso/Singly-Linked-List-Java.git
     cd Singly-Linked-List-Java/src
     javac Main.java
     java Main
